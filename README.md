@@ -1,4 +1,4 @@
-Spring Webflux Security-dan foydalangan holda o'quv loyihasi
+Spring Webfluxni Security-da qo'llash.
 ================================
 
 
