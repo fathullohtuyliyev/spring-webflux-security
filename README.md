@@ -2,7 +2,7 @@ Spring Webflux Security-dan foydalangan holda o'quv loyihasi
 ================================
 
 
-## Quyidagi texnologiyalardan foydalangan holda dastur yaratish bosqichlari haqida umumiy tushuncha berishdir:
+## Quyidagi texnologiyalardan foydalangan holda dastur yaratish bosqichlari :
  - Spring Boot 3
  - Spring Security (JWT)
  - Spring WebFlux
