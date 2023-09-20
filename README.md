@@ -36,10 +36,10 @@ spring:r2dbc:password
 curl --location 'http://localhost:8083/api/v1/auth/register' \
 --header 'Content-Type: application/json' \
 --data '{
-    "username": "proselyte",
+    "username": "jpro",
     "password": "test",
-    "first_name": "Eugene",
-    "last_name": "Suleimanov"
+    "first_name": "Fathullo",
+    "last_name": "Tuyliyev"
 }'
 ```
 
@@ -49,8 +49,8 @@ Javob namunasi:
   "id": 1,
   "username": "proselyte",
   "role": "USER",
-  "first_name": "Eugene",
-  "last_name": "Suleimanov",
+  "first_name": "Fathullo",
+  "last_name": "Tuyliyev",
   "enabled": true,
   "created_at": "2023-05-13T14:53:32.36094",
   "updated_at": "2023-05-13T14:53:32.360954"
@@ -62,7 +62,7 @@ Javob namunasi:
 curl --location 'http://localhost:8083/api/v1/auth/login' \
 --header 'Content-Type: application/json' \
 --data '{
-    "username": "proselyte",
+    "username": "jpro",
     "password": "test"
   }'
 ```
@@ -90,8 +90,8 @@ Javob namunasi:
   "id": 1,
   "username": "proselyte",
   "role": "USER",
-  "first_name": "Eugene",
-  "last_name": "Suleimanov",
+  "first_name": "Fathullo",
+  "last_name": "Tuyliyev",
   "enabled": true,
   "created_at": "2023-05-13T14:02:37.248466",
   "updated_at": "2023-05-13T14:02:37.248482"
