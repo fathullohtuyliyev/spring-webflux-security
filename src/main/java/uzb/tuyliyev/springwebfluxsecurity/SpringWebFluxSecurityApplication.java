@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringWebfluxSecurityApplication {
+public class SpringWebFluxSecurityApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringWebfluxSecurityApplication.class, args);
+        SpringApplication.run(SpringWebFluxSecurityApplication.class, args);
     }
 
 }
