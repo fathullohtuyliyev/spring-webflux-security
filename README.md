@@ -88,7 +88,7 @@ Javob namunasi:
 ```json
 {
   "id": 1,
-  "username": "proselyte",
+  "username": "pro",
   "role": "USER",
   "first_name": "Fathullo",
   "last_name": "Tuyliyev",
